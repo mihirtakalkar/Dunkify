@@ -1,2 +1,2 @@
 # Dunkify
-NBA stats and insights tool.
+NBA stats and insights tool, developed in React with MongoDB.
